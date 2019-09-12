@@ -3,4 +3,5 @@
 .idea/**
 __pycache__
 pychache__/**
-**/pychache__/**
+**/pychache__/*
+.ipynb_checkpoints*
