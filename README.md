@@ -1,4 +1,12 @@
-## Data Structures and Algorithms using Python
+# Python for Data Structures, Algorithms, and Interviews!
+This repository consists of notes made while going through the course *Python for Data Structures, Algorithms, and Interviews!* 
+in Udemy. All modules are separated as Jupiter Notebooks.
+
+This course mainly has questions based on different data structures and very less questions based on pre-known algorithms.
+Kindly refer to (my repo)[../] for list of named algorithms and their implementations.
+
+All the best and keep coding!! :)
+
 ## Algorithms characteristics:
 Algorithms have associated complexity:  
 * space -> memory occupied  
